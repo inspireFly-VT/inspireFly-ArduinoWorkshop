@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "InspireFly_ARD-Workshop-FtpLib")(type "KiCad")(uri "${KIPRJMOD}/InspireFly_ARD-Workshop-FtpLib.pretty")(options "")(descr ""))
+)
