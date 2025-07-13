@@ -621,7 +621,7 @@
 		(uuid "eb43fccf-2348-4e5a-9ed2-e87e250620ec")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/10103592_0001LF (1)/10103592-0001LF.step"
+	(model "${KIPRJMOD}/3D Files/10118194-0001LF.step"
 		(offset
 			(xyz 0 0 0)
 		)
